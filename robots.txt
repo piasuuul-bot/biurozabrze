@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://biurozabrze.pl/sitemap.xml
